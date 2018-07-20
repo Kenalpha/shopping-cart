@@ -1,0 +1,15 @@
+/*Overriding bootstrap class*/
+.panel-info > .panel-heading-custom{
+    background-color: #e67e22;
+    color: white;
+}
+
+.panel-info > .panel-heading-custom:hover{
+    color: black;
+    background-color: white;
+    transition: all 0.5s ease-in;
+}
+
+.navbar-default{
+	background-color: #f8f8bb;
+}

@@ -1,0 +1,1 @@
+Create a database called 'kenalpha_cart' them import 'kenalpha_cart.sql'
